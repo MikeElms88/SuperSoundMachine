@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "FR5CUZSFWF.biz.glue.Simple-Sound-Machine",
+        "paths": [ "/?data=*","/*" ]
+      }
+    ]
+  }
+}
