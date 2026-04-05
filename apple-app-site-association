@@ -3,7 +3,7 @@
     "apps": [],
     "details": [
       {
-        "appID": "FR5CUZSFWF.biz.glue.Simple-Sound-Machine",
+        "appID": "FR5CUZSFWF.biz.glue.Super-Sound-Machine",
         "paths": [ "/?data=*","/*" ]
       }
     ]
